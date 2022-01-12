@@ -1,0 +1,15 @@
+{
+  "background_color": "",
+  "description": "Shhh, no one will be able to know.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "n5m",
+  "short_name": "n5m",
+  "start_url": "https://kimchier.github.io/"
+}
